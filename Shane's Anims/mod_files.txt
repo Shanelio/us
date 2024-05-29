@@ -1,1 +1,2 @@
+ add character/knucklesP.pac
 add mod.ini
