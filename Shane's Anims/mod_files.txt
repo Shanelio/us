@@ -1,2 +1,2 @@
- add character/knucklesP.pac
+add character/sonic.pac
 add mod.ini
